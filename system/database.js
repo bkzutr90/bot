@@ -101,7 +101,7 @@ module.exports = (m) => {
          pluginDisable: [],
          groupmode: false,
          sk_pack: 'Sticker',
-         sk_author: '@neoxrs',
+         sk_author: 'Just Ferianss',
          self: false,
          mimic: [],
          multiprefix: true,
