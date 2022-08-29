@@ -1,5 +1,5 @@
 {
-   "name":"neoxr-bot",
+   "name":"justferianss-bot",
    "version":"2.2.0",
    "description":"WhatsApp Bot (Base)",
    "main":"index.js",
@@ -17,7 +17,7 @@
    "keywords":[
       "wabot-md"
    ],
-   "author":"Wildan Izzudin",
+   "author":"Just Ferianss",
    "license":"ISC",
    "dependencies":{
       "@adiwajshing/baileys":"^4.4.0",
